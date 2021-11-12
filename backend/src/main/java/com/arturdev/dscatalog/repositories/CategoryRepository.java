@@ -6,4 +6,5 @@ import com.arturdev.dscatalog.entities.Category;
 
 public interface CategoryRepository extends JpaRepository<Category, Long> {
 	
+	
 }
